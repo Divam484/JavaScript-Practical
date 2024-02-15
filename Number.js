@@ -276,7 +276,7 @@ function print() {
       console.log(`${num} is  Not Armstrong Number`);
     }
   }
-  CheckArmstrong(92727);
+  CheckArmstrong(153);//(1*1*1 + 5*5*5 + 3*3*3)
   
   //===== 19.JavaScript Program to Find Armstrong Number in an Interval
   
